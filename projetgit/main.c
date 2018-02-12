@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("fdp\n");
+    printf("Bonjour Maman!\n");
     return 0;
 }
